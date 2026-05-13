@@ -242,7 +242,7 @@ ol {
 
 .button {
   box-sizing: border-box;
-  outline: 1px solid #ffffff;
+  border: 1px solid #ffffff;
   color: #ffffff;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 700;
